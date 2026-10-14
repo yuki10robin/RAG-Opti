@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/index.faiss
+data/chunks.json
+data/*.sqlite
+data/*.db
+data/*.pdf
